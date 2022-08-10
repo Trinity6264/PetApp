@@ -1,3 +1,52 @@
 /server/.env
 /server/.node_modules
 /server/.PetApp
+
+
+# Miscellaneous
+/frontend/likdam/*.class
+/frontend/likdam/*.log
+/frontend/likdam/*.pyc
+/frontend/likdam/*.swp
+/frontend/likdam/.DS_Store
+/frontend/likdam/.atom/
+/frontend/likdam/.buildlog/
+/frontend/likdam/.history
+/frontend/likdam/.svn/
+/frontend/likdam/migrate_working_dir/
+
+# IntelliJ related
+/frontend/likdam/*.iml
+/frontend/likdam/*.ipr
+/frontend/likdam/*.iws
+/frontend/likdam/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+/frontend/likdam/**/doc/api/
+/frontend/likdam/**/ios/Flutter/.last_build_id
+/frontend/likdam/.dart_tool/
+/frontend/likdam/.flutter-plugins
+/frontend/likdam/.flutter-plugins-dependencies
+/frontend/likdam/.packages
+/frontend/likdam/.pub-cache/
+/frontend/likdam/.pub/
+/frontend/likdam/build/
+
+# Web related
+/frontend/likdam/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+/frontend/likdam/app.*.symbols
+
+# Obfuscation related
+/frontend/likdam/app.*.map.json
+
+# Android Studio will place build artifacts here
+/frontend/likdam/android/app/debug
+/frontend/likdam//android/app/profile
+/frontend/likdam/android/app/release
